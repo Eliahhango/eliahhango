@@ -5,7 +5,7 @@ src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Here is a l
 
 <br />
 
-> **Hi, I'm Eliahhango — Full-stack developer focused on secure, maintainable software.**
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
 
 <br/>
 <br/>

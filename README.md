@@ -1,36 +1,52 @@
 <div align="center">
   <h1>👋 Hi — I'm Eliahhango</h1>
-  <p>🛠️ Engineer-minded developer who builds practical apps and thinks about security first.</p>
+  <p>Engineer-minded developer • security-focused • maker</p>
+
+  <!-- GIF under the header -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width="220" />
+
+  <!-- optional quick badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20work-green?style=for-the-badge" alt="status" />
+    <img src="https://img.shields.io/badge/Location-Dar%20es%20Salaam-blue?style=for-the-badge" alt="location" />
+  </p>
 </div>
 
-## 👋 Quick snapshot
+---
 
-- 🧑‍💻 Full-Stack developer • 🛡️ Cybersecurity enthusiast • 🎨 Designer-in-practice • 🧱 Civil Engineering student
-- ✨ I prefer small, well-crafted projects over feature bloat.
-- 🔧 I enjoy turning messy ideas into reliable, maintainable systems.
+## 👋 Quick intro
 
-## 🔭 Current work
+- 🧑‍💻 Full-stack developer who values clarity and small, well-crafted solutions.
+- 🛡️ I think about security from design through deployment.
+- 🎨 I blend clean UI patterns with practical engineering.
 
-- 🚀 Building secure, production-ready web apps and APIs
-- 📝 Writing short cybersecurity labs and practical write-ups
-- 🎛️ Designing small, reusable UI components and patterns
+## 🔭 Current focus
+
+- 🚀 Shipping secure web apps and resilient APIs
+- 🧪 Writing short, hands-on security labs and notes
+- 🧩 Building reusable UI components and tiny design systems
 
 ## 🧰 Tech stack
 
-- 🧩 Languages: JavaScript / TypeScript, Python, SQL
-- 🖥️ Front-end: React, Tailwind CSS, HTML, CSS
-- 🗄️ Back-end: Node.js, Express, MongoDB, PostgreSQL
-- 🛡️ Security: Kali tools, Burp Suite, pentesting basics
-- 🧰 Tools: Figma, AutoCAD, VS Code
+- 🟨 JavaScript / TypeScript • 🐍 Python • SQL
+- ⚛️ React • Tailwind CSS • HTML / CSS
+- 🟩 Node.js • Express • MongoDB • PostgreSQL
+- 🛠️ Figma • AutoCAD • VS Code • Burp Suite
 
-## ⚡ Personal fun facts
+## 🔖 Featured projects (pin these)
 
-- 📐 I read design systems the way others read blueprints — structure first.
-- 🌙 Night-owl coder: most productive after midnight with coffee nearby.
-- 📍 Based in Dar es Salaam, Tanzania — I like building things that help people locally and remotely.
-- 🏗️ Civil engineering background — I think in diagrams and physical constraints.
+- Project A — short description (replace with your repo link)
+- Project B — short description (replace with your repo link)
+- Project C — short description (replace with your repo link)
 
-## 📫 Contact
+## ⚡ Fun facts about me
+
+- 📐 I read design systems like blueprints — structure first.
+- 🌙 Night-owl coder: best ideas happen after midnight with coffee.
+- 📍 I build for people in Dar es Salaam and beyond.
+- 🏗️ Civil engineering background — I sketch solutions on paper first.
+
+## 📫 Connect
 
 <div align="center">
   <a href="https://github.com/Eliahhango">🐙 GitHub</a> •
@@ -38,8 +54,7 @@
   <a href="mailto:sbrk255@gmail.com">✉️ Email</a>
 </div>
 
-> ⚠️ You might find me debugging at 3 AM with coffee and stubbornness. ☕💻
-
 ---
 
-<sub>Want badges, GitHub stats, or a different tone (more formal, more playful, or designer-focused)? Tell me which and I’ll update it.</sub>
+<sub>Tell me which GIF you prefer (I used a waving GIF), and whether you want GitHub stats cards or themed badges added.</sub>
+

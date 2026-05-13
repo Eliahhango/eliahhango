@@ -1,66 +1,115 @@
-<!-- EXECUTING VISUAL BRANDING HEADER -->
+<!-- BRAND ELEVATION HERO BANNER -->
 <div align="center">
-  <h1>👑 EliTechWiz</h1>
-  <p><b>Senior Full Stack Developer & UI/UX Architect</b></p>
-  <p><i>Crafting ultra-clean interfaces, solid backend logic, and premium developer experiences.</i></p>
+  <img src="vercel.app" width="100%" alt="EliTechWiz Hero"/>
 </div>
 
-<hr />
-
-### 💡 Core Philosophy
-> "Simplicity is the ultimate sophistication. I eliminate structural clutter to build high-performance, accessible software architectures."
-
 <br />
 
-### 🚀 Technical Ecosystem
-
-
-| Layer | Technologies & Ecosystem Frameworks |
-| :--- | :--- |
-| **Languages** | `JavaScript` &bull; `TypeScript` &bull; `Python` &bull; `SQL` |
-| **Backend Architecture** | `Node.js` &bull; `Express Framework` &bull; `RESTful APIs` |
-| **Frontend Engineering** | `React.js` &bull; `Tailwind CSS Engine` &bull; `Responsive UI` |
-| **Database Systems** | `PostgreSQL` &bull; `MongoDB Solutions` |
-| **Design & Prototype** | `Figma Professional` &bull; `Design Systems` &bull; `DX Tuning` |
-
-<br />
-
-### 📊 Engineering Metrics & Analytics
-
+<!-- IDENTITY SUMMARY MATRIX -->
 <div align="center">
-  <img src="vercel.app" width="48%" alt="GitHub Stats" />
+  <h2>⚡ Transforming Complex Logic Into Premium Digital Experiences ⚡</h2>
+  <p>
+    Welcome! I am <b>Eliahhango</b>, the engineer behind <b>EliTechWiz</b>. I specialize in building highly scalable backend architectures, pixel-perfect user interfaces, and flawless developer workflows.
+  </p>
+  
+  <code><b>Clean UI</b></code> • <code><b>Solid Logic</b></code> • <code><b>Good DX</b></code>
+</div>
+
+<br />
+<hr size="1" color="#1F2937" />
+<br />
+
+<!-- THE CORE ENGINE: TECH STACK VISUAL SHOWCASE -->
+<div align="center">
+  <h3>🚀 Technical Arsenal & Ecosystem</h3>
+
+  <!-- LANGUAGES -->
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+
+  <br />
+
+  <!-- FRONTEND & BACKEND FRAMEWORKS -->
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+
+  <br />
+
+  <!-- DATABASES & DESIGN -->
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+</div>
+
+<br />
+<hr size="1" color="#1F2937" />
+<br />
+
+<!-- AUTOMATED REAL-TIME METRICS GRID -->
+<div align="center">
+  <h3>📊 Core Engine Analytics & Performance</h3>
+</div>
+
+<p align="center">
+  <img src="vercel.app" width="48%" alt="GitHub Metrics" />
   <img src="vercel.app" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="herokuapp.com" width="97%" alt="GitHub Streak" />
+</p>
+
+<br />
+<hr size="1" color="#1F2937" />
+<br />
+
+<!-- INTERACTIVE REPOSITORY PORTFOLIO SHOWCASE -->
+<div align="center">
+  <h3>📂 Elite Production Blueprints</h3>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Ecosystems</h4>
+      <ul>
+        <li><b>High-Throughput Node APIs</b>: Scalable server engines running secure middleware routines.</li>
+        <li><b>Robust Data Architecture</b>: Relational configurations managed across secure PostgreSQL instances.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 UI/UX Component Labs</h4>
+      <ul>
+        <li><b>Atomic Design Assets</b>: Tailored Figma prototypes fully integrated into clean Tailwind layouts.</li>
+        <li><b>Dynamic React Interfaces</b>: Complex component models built with absolute speed optimization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+<hr size="1" color="#1F2937" />
+<br />
+
+<!-- RADAR CONTACT SECTION -->
+<div align="center">
+  <h3>📬 Establish Connection</h3>
+  <p>Let's collaborate on high-performance web systems.</p>
+  
+  <a href="mailto:hangoeliah@gmail.com">
+    <img src="shields.io" />
+  </a>
+  <a href="github.com">
+    <img src="shields.io" />
+  </a>
 </div>
 
 <br />
 
-### 📂 Highlighted Production Repositories
-
-<!-- Dropdowns keep the profile perfectly clean and professional -->
-<details>
-  <summary><b>⚡ Enterprise Web Architectures</b></summary>
-  <br />
-  
-  - **Full-Stack Application Stacks:** High-throughput APIs engineered with Node.js and Express.
-  - **Relational Databases:** Production-grade schemas optimized with PostgreSQL and MongoDB.
-</details>
-
-<details>
-  <summary><b>🎨 UI/UX Component Libraries</b></summary>
-  <br />
-  
-  - **Tailwind Component Frameworks:** Tailored web layout structures featuring elite motion curves.
-  - **Figma Design Assets:** High-fidelity layouts emphasizing pixel-perfect user interaction.
-</details>
-
-<br />
-
-### 📬 Let's Connect
-- **Direct Mail:** `hangoeliah@gmail.com`
-- **GitHub Profile Handle:** [@Eliahhango](https://github.com)
-
-<hr />
-
 <div align="center">
-  <img src="komarev.com" alt="Visitor Count" />
+  <img src="komarev.com" alt="Engine Views" />
 </div>

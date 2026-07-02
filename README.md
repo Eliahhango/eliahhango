@@ -17,7 +17,7 @@ I don't just write code—I **engineer** it with the same structural integrity, 
 
 When I program, I think like an engineer assessing a foundation. When I secure, I think like a developer optimizing performance. The result? **Robust, resilient, and inherently secure digital solutions.**
 
----
+
 
 ## 🛠️ My Tech Toolbox
 
@@ -30,26 +30,26 @@ When I program, I think like an engineer assessing a foundation. When I secure, 
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+
 
 ## 🌐 Explore My Digital Blueprints
 
 All my projects, case studies, and live engineering work are showcased on my portfolio:  
 👉 **[elitechwiz.com](https://elitechwiz.com)**
 
----
+
 
 ## 📊 GitHub Activity
 
 ![Eliahhango's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliahhango&show_icons=true&theme=dark&hide_title=true)
 
----
+
 
 ## 📫 Let's Build Something Secure
 
 - 📺 [YouTube](https://youtube.com/@eliahhango)
 - 💬 [Telegram](https://t.me/techarmyyy)
 
----
+
 
 ⚡ *Open to collaborations, structural challenges, or secure development projects—let's engineer the future together.*

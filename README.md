@@ -5,7 +5,7 @@
 I bridge the gap between physical infrastructure and digital architecture. 
 I don't just write code—I **engineer** it with the same structural integrity, risk assessment, and long-term resilience I apply to buildings and bridges. 
 
----
+
 
 ## 🧠 My Engineering Philosophy
 
